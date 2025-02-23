@@ -11000,18 +11000,18 @@ section.resume-section .resume-section-content {
 
 
 
-/* Container for the image frame */
+/* Container image frame */
 .img-frame {
   position: relative;
   overflow: hidden;
-  border: 8px solid #fff;       /* White border for a clean look */
-  border-radius: 15px;          /* Rounded corners */
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);  /* Subtle drop-shadow */
+  border: 8px solid #fff;       
+  border-radius: 15px;          
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);  
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   margin: 0 auto;
 }
 
-/* Ensure the image is responsive within the frame */
+/image is responsive within the frame */
 .img-frame img {
   display: block;
   width: 100%;
@@ -11019,7 +11019,7 @@ section.resume-section .resume-section-content {
   transition: transform 0.3s ease;
 }
 
-/* Hover effect for a dynamic feel */
+/* Hover effect */
 .img-frame:hover {
   transform: scale(1.05);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
