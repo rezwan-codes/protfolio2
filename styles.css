@@ -11011,7 +11011,7 @@ section.resume-section .resume-section-content {
   margin: 0 auto;
 }
 
-/image is responsive within the frame */
+/*image is responsive within the frame */
 .img-frame img {
   display: block;
   width: 100%;
