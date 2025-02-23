@@ -11000,18 +11000,18 @@ section.resume-section .resume-section-content {
 
 
 
-/* Container image frame */
+/* Container for the image frame */
 .img-frame {
   position: relative;
   overflow: hidden;
   border: 8px solid #fff;       
-  border-radius: 15px;          
+  border-radius: 15px;         
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);  
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   margin: 0 auto;
 }
 
-/*image is responsive within the frame */
+/* image is responsive within the frame */
 .img-frame img {
   display: block;
   width: 100%;
